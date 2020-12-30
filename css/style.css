@@ -1,0 +1,11 @@
+
+.side-main-content{
+    font-size: 0.85rem;
+    margin-left: 15px;
+    color: #fff;
+} 
+
+.nav-item .side-main-content:hover {
+    color: #fff !important;
+    text-decoration: none;
+}
