@@ -69,13 +69,23 @@
             </li>
 
            
-
+<!-- Divider -->
+<hr class="sidebar-divider d-none d-md-block">
             <!-- Nav Item - Tables -->
-            <!-- <li class="nav-item">
-                <a class="nav-link" href="tables.php">
+            <li class="nav-item">
+                <a class="side-main-content" href="#">
                     <i class="fas fa-fw fa-table"></i>
-                    <span>Tables</span></a>
-            </li> -->
+                    <span>Products</span><i class="fas fa-chevron-right" style="float: right; margin-right: 16px;"></i>
+                </a>
+            </li>
+<!-- Divider -->
+<hr class="sidebar-divider d-none d-md-block">
+            <li class="nav-item">
+                <a class="side-main-content" href="#">
+                    <i class="fas fa-fw fa-shopping-cart"></i>
+                    <span>Orders</span>
+                </a>
+            </li>
 
             <!-- Divider -->
             <hr class="sidebar-divider d-none d-md-block">
